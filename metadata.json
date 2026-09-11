@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio",
+  "description": "Minimalist QR code generator and camera scanner with clean customization and settings.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
